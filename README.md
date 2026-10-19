@@ -12,7 +12,7 @@ I enjoy working with data, developing machine learning projects, and continuousl
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn, model evaluation, classification
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-- **Currently Exploring:** Advanced Python, Deep Learning, LLMs, RAG,,SQL and AI Engineering
+- **Currently Exploring:** Advanced Python, Deep Learning, LLMs, RAG,SQL and AI Engineering
 
 ## 🚀 Featured Projects
 
