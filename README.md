@@ -40,7 +40,7 @@ To grow into an AI Engineer by building meaningful projects, learning modern AI 
 
 - **GitHub:** https://github.com/mks007812
 - **LinkedIn:** Add your LinkedIn profile URL here
-- **Email:** Add your professional email here
+- **Email:** mridulshahi97@gmail.com
 
 ---
 
